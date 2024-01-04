@@ -1,8 +1,8 @@
 ## Todo app
 
 This project contains a simple TODO application 
-It has the follwoing features:
+It has the following features:
 
-    - Anyone an create a TODO
-    - Anyone can see their existing TODOs
-    - Anyone can mark their TODOs as done.
+- Anyone can create a TODO
+- Anyone can see their existing TODOs
+- Anyone can mark their TODOs as done.
